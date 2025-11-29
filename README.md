@@ -16,3 +16,5 @@ Este repositório contém todos os scripts SQL desenvolvidos para o banco de dad
    ```sql
    CREATE DATABASE saudeviva;
    USE saudeviva;
+
+https://github.com/Talya03/SaudeViva
